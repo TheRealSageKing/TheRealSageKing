@@ -5,7 +5,9 @@
 
 👀 I’m interested in meeting like minds, collaborate on projects, maybe meet a dev mentor and make friends
 
-👀 I am quite skilled in laravel and Livewire. 🌱 I’m currently learning ReactJS and NodeJs
+👀 I am quite skilled in laravel and Livewire. 
+
+🌱 I just completed learning ReactJS and NodeJs
 
 💞️ I’m looking to collaborate on projects.
 
