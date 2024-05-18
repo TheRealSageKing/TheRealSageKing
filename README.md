@@ -7,7 +7,7 @@
 
 👀 I am quite skilled in laravel and Livewire. 
 
-🌱 I just completed learning ReactJS and NodeJs
+🌱 I am also skilled in ReactJS, NextJS and NodeJs
 
 💞️ I’m looking to collaborate on projects.
 
