@@ -14,7 +14,7 @@
 
 ## Tech Stack
 
-**Client:** React, Redux, TailwindCSS, Livewire
+**Client:** React, NextJS, TailwindCSS, Livewire
 
 **Server:** Node, Express, Laravel
 
